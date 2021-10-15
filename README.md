@@ -1,4 +1,4 @@
-## Apple AppStore Apps (Backups Repo)
+## Apple AppStore Apps (Backup Repo)
 
 ### Application data of 1.2 million ios application from Apple AppStore.
 <img src="banner.png" width="440" height="200" />
